@@ -1,16 +1,2 @@
-import urllib.request
-
-url = "https://medium.com/@ishaan.rawat611/data-engineering-project-using-aws-lambda-glue-athena-and-quicksight-5b9241c8510a"
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-}
-
-try:
-    req = urllib.request.Request(url, headers=headers)
-    with urllib.request.urlopen(req) as response:
-        content = response.read().decode('utf-8')
-        with open("article_content.html", "w", encoding="utf-8") as f:
-            f.write(content)
-    print("Successfully fetched article.")
-except Exception as e:
-    print(f"Error: {e}")
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/66230a59-642d-4acd-acdd-aec9b4aa4c97" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e92e219d-a2f7-49e2-87b4-00ae1a99b20b" />
