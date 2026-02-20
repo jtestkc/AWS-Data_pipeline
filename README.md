@@ -81,4 +81,3 @@ If you want to redeploy this project from scratch with **zero errors**:
 *   **Dashboard Not Loading?** Wait ~3-5 mins after deployment for the EC2 setup script to finish.
 *   **Data Not Showing?** Check the Glue Job console to ensure the ETL script has finished processing the raw data.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/66230a59-642d-4acd-acdd-aec9b4aa4c97" />
-##img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e92e219d-a2f7-49e2-87b4-00ae1a99b20b" />
